@@ -5,4 +5,7 @@ public class App {
     public static funcion() {
         System.out.println("esto es una funcion");
     }
+    public static void funcioncaballo() {
+        System.out.println("el caballo se mueve en L");
+    }
 }
